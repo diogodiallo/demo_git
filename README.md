@@ -11,3 +11,9 @@ git commit -am "Votre code ou phrases ici"
 git checkout
 git log 
 git rm <nom du fichier a supprimer>
+
+-- Envoi des fichiers sur github (cas d'une machine ou remote : sinon on remplace origin par le nom de la machine)
+git push origin master
+
+-- Recuperation de la derniere modification effectuee sur github ou par un autre  (cas d'une machine ou remote)
+git pull origin master

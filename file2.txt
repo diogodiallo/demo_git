@@ -1,2 +1,5 @@
 Un test avec un fichier txt de qualite je crois.
 Aller on balance tout cela sur github. GOOOOOOOOOOO
+
+Et oui, on peut modifier aussi sur github et recuperer
+juste la modification sur notre machine locale.

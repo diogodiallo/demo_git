@@ -17,3 +17,5 @@ git push origin master
 
 -- Recuperation de la derniere modification effectuee sur github ou par un autre  (cas d'une machine ou remote)
 git pull origin master
+
+Quelques modifications sur le fichier README en local
